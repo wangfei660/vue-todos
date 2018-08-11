@@ -1,6 +1,11 @@
 # vue-todos
+2018年8月11日17:18:50 
+
+jasongzhang 提交修改，使用的就是这个，太棒了，very good.
+
 [预览地址](http://yangyi1024.com/todo)(响应式设计，pc端，移动端)
 [首发地址](https://github.com/liangxiaojuan/vue-todos)(源码和教程)
+
 > **vue-todos**是 [todomvc](https://github.com/tastejs/todomvc)  vue模块的升级版本,界面简约，功能丰富，知道点全面，能帮您快速上手vuejs.喜欢的请点心，关注，star ,fork,这些是我坚持下去的动力!!
 
 ### 前言
